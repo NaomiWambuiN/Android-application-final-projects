@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824340028661",
+    "project_id": "test-app-d3dcb",
+    "storage_bucket": "test-app-d3dcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824340028661:android:d9ef06a86598724f6db9bc",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnE1P1IJpE70_dtpmfFyvV6Bg867jo7a4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
